@@ -1,0 +1,32 @@
+commit a3623426ee5bf63491c44a4fcabd2e15b5287260
+Author: aliskalante <163349675+aliskalante@users.noreply.github.com>
+Date:   Wed Mar 13 21:20:08 2024 +0100
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8e4cb73ddac6609755a51f11f78ff35e63790a5a
+Author: Skalante Ali <skalante1@fst-o-f-7-07.unilim.fr>
+Date:   Thu Mar 14 14:31:27 2024 +0100
+
+    Initial commit - structure du projet de dictionnaire bilingue
+
+ .gitignore              | 29 ++++++++++++++++++++
+ .idea/misc.xml          |  6 +++++
+ .idea/modules.xml       |  8 ++++++
+ .idea/vcs.xml           |  6 +++++
+ .idea/workspace.xml     | 71 +++++++++++++++++++++++++++++++++++++++++++++++++
+ src/Dictionary.java     | 11 ++++++++
+ src/DictionaryTest.java | 10 +++++++
+ src/Main.java           |  5 ++++
+ vrai_genielog.iml       | 37 ++++++++++++++++++++++++++
+ 9 files changed, 183 insertions(+)
+
+commit 5f7bf267f91206f72b2f43812cfaa53a86f2483c
+Merge: 8e4cb73 a362342
+Author: Skalante Ali <skalante1@fst-o-f-7-07.unilim.fr>
+Date:   Thu Mar 14 15:07:27 2024 +0100
+
+    Merge remote-tracking branch 'origin/main'

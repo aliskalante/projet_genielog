@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0fcd41-6069-431c-a42f-4be332833d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rapport-git.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionnaire" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parseur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DictionaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DictionaryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,31 +53,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DictionaryTest.testTraductionBidirectionnelle">
-    <configuration name="DictionaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vrai_genielog" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DictionaryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Parseur.testParseFile">
     <configuration name="DictionaryTest.testAddAndGetTranslation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vrai_genielog" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DictionaryTest" />
       <option name="METHOD_NAME" value="testAddAndGetTranslation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DictionaryTest.testDictionaryIsEmptyOnCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vrai_genielog" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DictionaryTest" />
-      <option name="METHOD_NAME" value="testDictionaryIsEmptyOnCreation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,13 +84,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Parseur" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vrai_genielog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Parseur" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parseur.testParseFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vrai_genielog" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Parseur" />
+      <option name="METHOD_NAME" value="testParseFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Parseur.testParseFile" />
+        <item itemvalue="JUnit.Parseur" />
         <item itemvalue="JUnit.DictionaryTest.testTraductionBidirectionnelle" />
         <item itemvalue="JUnit.DictionaryTest.testMultipleTranslations" />
         <item itemvalue="JUnit.DictionaryTest.testAddAndGetTranslation" />
-        <item itemvalue="JUnit.DictionaryTest" />
-        <item itemvalue="JUnit.DictionaryTest.testDictionaryIsEmptyOnCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +124,7 @@
       <workItem from="1710282582199" duration="886000" />
       <workItem from="1710422936473" duration="4532000" />
       <workItem from="1710532346777" duration="1077000" />
+      <workItem from="1710682383610" duration="2673000" />
     </task>
     <servers />
   </component>
